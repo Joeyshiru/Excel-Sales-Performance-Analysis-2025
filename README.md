@@ -119,8 +119,7 @@ The dashboard uses Pivot Tables, Pivot Charts, slicers, and linked formulas to u
 
 ## Dashboard Preview
 
-![2025 Sales Performance Dashboard](Dashboard_Screenshot.png)
-
+![2025 Sales Performance Dashboard](Screenshot%202026-11-02%20144802.png)
 ## Business Recommendations
 
 Based on the analysis:
