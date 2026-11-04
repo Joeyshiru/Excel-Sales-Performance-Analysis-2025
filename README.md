@@ -8,6 +8,10 @@ Using Microsoft Excel, I analyzed sales transactions from January to December 20
 
 The project concludes with an **interactive Excel dashboard** that allows users to explore sales performance across different regions and product categories.
 
+## Dashboard Preview
+
+![2025 Sales Performance Dashboard](Screenshot%202026-11-02%20144802.png)
+
 ## Business Problem
 
 The company needed better visibility into its sales performance to understand:
@@ -117,9 +121,6 @@ The Excel dashboard contains:
 
 The dashboard uses Pivot Tables, Pivot Charts, slicers, and linked formulas to update the visualizations and KPIs when filters are applied.
 
-## Dashboard Preview
-
-![2025 Sales Performance Dashboard](Screenshot%202026-11-02%20144802.png)
 ## Business Recommendations
 
 Based on the analysis:
